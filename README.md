@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @camraydev
+- 👀 I’m interested in Python and DevOps.
+- 🌱 I’m currently learning Kubernetes.
+- 💞️ I’m looking to collaborate on Python open source projects.
+- 📫 Reach me at camraydev@gmail.com
